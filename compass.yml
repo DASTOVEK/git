@@ -1,0 +1,13 @@
+name: git
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/d1ede6b6-06fc-4686-bd68-4a5f42e52058
+description: Package GoGits - Git is a pure Go implementation of Git manipulation.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
